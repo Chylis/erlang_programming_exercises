@@ -1,0 +1,3 @@
+1460,464473,390903,raise_alarm,10,cabinet_open
+1460,464480,934551,clear_alarm,10,cabinet_open
+1460,464487,61820,event,156,link_up
